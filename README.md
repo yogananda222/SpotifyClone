@@ -19,8 +19,8 @@ SpotifyMusic is a web application that mimics the functionality of Spotify, allo
 
 ## Installation
 To run this Spotify clone locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/yogananda222/SpotifyMusic.git`
-2. Navigate to the project directory: `cd SpotifyMusic`
+1. Clone the repository: `git clone https://github.com/yogananda222/SpotifyClone.git`
+2. Navigate to the project directory: `cd SpotifyClone`
 3. Open `index.html` in your preferred web browser.
 
 ## Usage
