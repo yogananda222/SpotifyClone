@@ -6,7 +6,7 @@ body{
     padding-bottom: 2%;
 }
 .banner{
-    /* background-image: url(images/banner1.svg); */
+    background-image: url(images/banner1.svg);
     background-size: cover;
     background-position: center;
     height: 18em;
@@ -16,7 +16,6 @@ body{
     margin-top: 3em;
     width: 12em;
     display: inline-block;
-    
     margin-right: 1em;
 
 }
